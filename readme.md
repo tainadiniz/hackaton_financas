@@ -4,10 +4,8 @@
 **ALUNOS: Nercino Neto e Tainá Diniz**
 
 # **Hackathon Finanças**
-- Neste projeto, visando a construção de uma carteira de investimentos, aplicamos o método de Markowitz para otimizar a alocação de ativos, priorizando a maximização do Índice de Sharpe, um indicador crucial que leva em conta o desempenho ajustado ao risco. Através desta simulação, buscamos criar uma carteira de investimentos na Bolsa Brasileira B3, iniciando com os portfólios de maior volume de acordo com o Índice Brasil 100 (IBrX 100 B3). No exemplo apresentado, distribuímos pesos por meio do modelo de otimização de Markowitz, conduzindo uma análise de cinco anos para avaliar o desempenho.
-
 ## **1. Descrição**
-
+- Neste projeto, visando a construção de uma carteira de investimentos, aplicamos o método de Markowitz para otimizar a alocação de ativos, priorizando a maximização do Índice de Sharpe, um indicador crucial que leva em conta o desempenho ajustado ao risco. Através desta simulação, buscamos criar uma carteira de investimentos na Bolsa Brasileira B3, iniciando com os portfólios de maior volume de acordo com o Índice Brasil 100 (IBrX 100 B3). No exemplo apresentado, distribuímos pesos por meio do modelo de otimização de Markowitz, conduzindo uma análise de cinco anos para avaliar o desempenho.
 ## **2. Importando Bibliotecas**
 
 ## **3. Obtendo Dados de Tickets B3**
